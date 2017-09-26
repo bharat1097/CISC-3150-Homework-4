@@ -1,0 +1,93 @@
+Microsoft Windows [Version 10.0.15063]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Bharat's PC>cd C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 4\src
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 4\src>javac NQueens.java
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 4\src>java NQueens
+ Enter an integer >= 4 : 3
+
+Number of solutions found: 0
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 4\src>java NQueens
+ Enter an integer >= 4 : 4
+
+ *  Q  *  *
+ *  *  *  Q
+ Q  *  *  *
+ *  *  Q  *
+
+ *  *  Q  *
+ Q  *  *  *
+ *  *  *  Q
+ *  Q  *  *
+
+Number of solutions found: 2
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 4\src>java NQueens
+ Enter an integer >= 4 : 5
+
+ Q  *  *  *  *
+ *  *  Q  *  *
+ *  *  *  *  Q
+ *  Q  *  *  *
+ *  *  *  Q  *
+
+ Q  *  *  *  *
+ *  *  *  Q  *
+ *  Q  *  *  *
+ *  *  *  *  Q
+ *  *  Q  *  *
+
+ *  Q  *  *  *
+ *  *  *  Q  *
+ Q  *  *  *  *
+ *  *  Q  *  *
+ *  *  *  *  Q
+
+ *  Q  *  *  *
+ *  *  *  *  Q
+ *  *  Q  *  *
+ Q  *  *  *  *
+ *  *  *  Q  *
+
+ *  *  Q  *  *
+ Q  *  *  *  *
+ *  *  *  Q  *
+ *  Q  *  *  *
+ *  *  *  *  Q
+
+ *  *  Q  *  *
+ *  *  *  *  Q
+ *  Q  *  *  *
+ *  *  *  Q  *
+ Q  *  *  *  *
+
+ *  *  *  Q  *
+ Q  *  *  *  *
+ *  *  Q  *  *
+ *  *  *  *  Q
+ *  Q  *  *  *
+
+ *  *  *  Q  *
+ *  Q  *  *  *
+ *  *  *  *  Q
+ *  *  Q  *  *
+ Q  *  *  *  *
+
+ *  *  *  *  Q
+ *  Q  *  *  *
+ *  *  *  Q  *
+ Q  *  *  *  *
+ *  *  Q  *  *
+
+ *  *  *  *  Q
+ *  *  Q  *  *
+ Q  *  *  *  *
+ *  *  *  Q  *
+ *  Q  *  *  *
+
+Number of solutions found: 10
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 4\src>
